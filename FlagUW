@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+  <Title>It Hasn't Awakened Yet.</Title>
+  <!-- I wish you a pleasant voyage. -->
+  <!-- Tumblr05 -->
+
+  <meta charset="utf-8" />
+  <meta name="robots" content="noimageindex">
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+
+  <style>
+    /*P*/
+    p {
+      font-size: 20px;
+      text-align: center;
+      margin: 0 auto;
+      letter-spacing: 0.045em;
+      font-feature-settings: "palt";
+    }
+
+    /*A*/
+    a {
+      transition: color 0.3s;
+      text-decoration: none;
+      color: #AAAAAA;
+    }
+
+    a.Blue {
+      color: #EDEDED;
+    }
+
+    /*A hover*/
+    a:hover {
+      color: #5A5A5A;
+    }
+
+    a.Blue:hover {
+      color: #0000FF;
+    }
+
+    /*A active*/
+    a:active {
+      color: #79b1ab;
+      text-decoration: none;
+    }
+
+    a.Anth:active {
+      color: #0000FF;
+      text-decoration: none;
+    }
+
+    a.Blue:active {
+      color: #FF0000;
+      text-decoration: none;
+    }
+
+    /*BODY*/
+    body {
+      width=816px;
+      height=624px;
+      background-color: #F2F2F2;
+      color: #5A5A5A;
+    }
+
+    .size13 {
+      font-size: 13.5px;
+      color: #AAAAAA;
+    }
+
+    .size15 {
+      font-size: 15px;
+      color: #AAAAAA;
+    }
+
+    .size18 {
+      font-size: 18.5px;
+    }
+
+    .size20 {
+      font-size: 20px;
+    }
+
+    .size40 {
+      font-size: 40px;
+    }
+
+    .CENTER {
+      text-align: center;
+    }
+
+    .absolute_transform {
+      position: absolute;
+      top: 50%;
+      /*親要素を起点に上から50%*/
+      left: 50%;
+      /*親要素を起点に左から50%*/
+      transform: translateY(-50%) translateX(-50%);
+      /*要素の大きさの半分ずつを戻す*/
+      -webkit-transform: translateY(-50%) translateX(-50%);
+    }
+
+    /* Google Font */
+    .poppins-light {
+      font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+    }
+
+    .poppins-regular {
+      font-family: "Poppins", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    .poppins-medium {
+      font-family: "Poppins", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+
+    .poppins-semibold {
+      font-family: "Poppins", sans-serif;
+      font-weight: 600;
+      font-style: normal;
+    }
+
+    .noto-sans-jp500 {
+      font-family: "Noto Sans JP", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+
+    .noto-sans-jp300 {
+      font-family: "Noto Sans JP", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+    }
+
+    /*Tumblr*/
+    iframe#tumblr_controls {
+      display: none;
+    }
+
+    /*TEST*/
+    .rectangle {
+      width: 300px;
+      height: 200px;
+      border: 2px solid black;
+      margin: 0 auto;
+    }
+  </style>
+
+</HEAD>
+
+<BODY>
+  <div class="poppins-medium CENTER">
+    <p class="size40">
+      <a href="https://gene-lumiera.tumblr.com/Idea">KINETO</a>
+    </p>
+    <br>
+    <br>
+    <br>
+    <!--BGM-->
+    <audio
+      src="https://dl.dropboxusercontent.com/scl/fi/h322jslt6px31v9lqnzd8/07_ABGLEIW.wav?rlkey=m7e09wn68exp31hmh12ylb0yx&st=dodcxnfd"
+      controls controlslist="nodownload"> </audio>
+    <br>
+    <br>
+    <br>
+
+    <!--SEISUISEI-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/s5chlnujou50g1jdlhws0/SeiSuiSei01.gif?rlkey=jiinhd9z17wg10dr58f2l691m&st=z5u60uq0"
+      vspace="5px" title="こちらは、現在制作中のゲーム作品&#13;「醒彗星」の進捗公開ページになります。">　　　　<a
+      href="https://gene-lumiera.tumblr.com/InHisMemory"><img
+        src="https://dl.dropboxusercontent.com/scl/fi/hmlv5rtmnfbb603m8rn1o/SeiSuiSei02.gif?rlkey=3ksrctlhnys4huhim6zdvf19g&st=nbvkmyde"
+        vspace="5px" title="ゲーム中に登場するスチルやゲーム画面などのビジュアルを、&#13;良い感じに加工して掲載しております。"></a>　　　　<img
+      src="https://dl.dropboxusercontent.com/scl/fi/3b5cp81q0p0wgjnkef6rz/SeiSuiSei03.gif?rlkey=tdb5rdhjjzlx4lcuq608axjeg&st=jlej82zl"
+      vspace="5px" title="それではごゆるりとお楽しみくださいませ。">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--AWAKE-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/0g0cgvlafaafl8i22otw0/awake.gif?rlkey=kbedgfehhtuxm9ff33esjb4yg&st=r1jr10lz"
+      vspace="5px" title="物語の始まり、彗星の義腕の手。陶器製。">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--C_Comet-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/qv0bayupo17hxchqphtyc/CutInCRT_Comet.gif?rlkey=alyeyzdek2xfpvr1egpx6dkz8&st=podpefgr"
+      vspace="5px" title="戦闘時カットイン、彗星。">
+    <!--Souls-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/nt3895siwbzkphgpv5j9p/SOULS.gif?rlkey=jmi3xdbtusjn0gldvexmlbizg&st=pqyl6deq"
+      vspace="5px" title="魂は此次元と別次元の存在。肉体を媒体に此次元へ干渉することが可能である。">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--Battle-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/5j3hb53fzykk83qvtnadr/Battle.GIF?rlkey=3jk0aqb19qkch5bmrdu8vraoo&st=r0wsztky"
+      vspace="5px" title="戦闘時カットイン2、赤星。">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--VIS-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/iapszbdub5niqiwq4weah/Vis_TC2.GIF?rlkey=a6vnin63y9pwjyc00r8iivaw3&st=62smgcem"
+      vspace="5px" title="ヴィスの新しい立ち絵。前の絵が自分の中で古くなってきたので、やる気が出れば更新したい！">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--F_ANTARES-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/0xkk147ecrnkvpnz7xn6i/face_antares.gif?rlkey=oyzkmuii6bow709dy8a7mhjsw&st=7mluz0zq"
+      vspace="5px" title="顔グラフィック、赤星">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--VISE-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/rjqbqb8appd26s3rk1cse/VISE.gif?rlkey=4zhkom63n3f61rzzd36e1paam&st=rdrzbi2x"
+      vspace="5px" title="醒彗星に登場する敵対存在、踊り子。&#13;陶器の身体を持つ、生命のイレギュラー達。&#13;彼女の名は「VISE」">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--HW_U-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/3fcwej7rjy70xl04agjwr/IHW_U2.GIF?rlkey=2cz9dwtyoghqvmwipy9mjc8aq&st=wk4asnmm"
+      vspace="5px" title="踊り子「Highway Uranus」。気に入っているデザインの一つ！">
+
+    <br>
+    <a class="Blue poppins-regular" href="https://youtu.be/MRkOO5v-X0c?si=nLdJttPnh-96XAKZ" target="_blank"
+      rel="noopener noreferrer">There, far
+      away, at "the remotest of UNIVERIA".</a>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--SORROW-->
+    <a href="https://gene-lumiera.tumblr.com/ReturnToAVoid"><img
+        src="https://dl.dropboxusercontent.com/scl/fi/y9y2uolb1ah6a9ypi8ir6/SORROW.gif?rlkey=duyf8pc8acqbiot4w9u4dzavk&st=jvcett1w"
+        vspace="5px" title="誰か。"></a>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--BROKEN-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/mre1kxbxrtztzcqdwm5pv/BROKEN.gif?rlkey=pojlenf2vnt7iiyfrs1yrztwy&st=yun8uamb"
+      vspace="5px" title="誰かの何かが壊れる時。">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--CC_KOTO--> <!--NOATH-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/brbqkye0p3dl3m6wz54em/CutIn_Koto.gif?rlkey=dgcdutaasxi620jk6cr1cw10u&st=2bcme15v"
+      vspace="5px" title="カットイン、コト。本当は白仮面にしたかったけれど、&#13;スペースが狭くて何が何やら分からない感じになってしまったので顔つき黒仮面にした">　　　　　　　<img
+      src="https://dl.dropboxusercontent.com/scl/fi/4luqukl6j4ir7dct8tv2n/NOATH.gif?rlkey=zwsponstgemrem27pxed4jusp&st=q27spy2i"
+      vspace="5px" title="踊り子「ALTER」。今回一番加工が上手く行った画像！！">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!--WASTE-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/k3va6vq2ved3klj8fv6bu/Waste.GIF?rlkey=qnh6ss8n7s7ixal59c7iu4jqt&st=p9aro218"
+      vspace="5px" title="サークルカットの背景……そして踊り子「Under the Waste」&#13;踊り子の名前にも結構分かりやすいネタがあったり、なかったり">
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <!--Before-->
+    <video
+      src="https://dl.dropboxusercontent.com/scl/fi/ndswaktvq2979zvcz9nbr/BeforeLong.MP4?rlkey=dkia2i8t4wn5pdlmaeavy9xbj&st=mar8hor3"
+      vspace="5px" width="800" controls controlslist="nodownload" autoplay muted loop
+      title="ヴィスが色々説明してくれているところ。&#13;進捗がしょっぱすぎて急いで用意した動画。"></video><br>
+    <a class="Blue poppins-regular" href="https://youtu.be/2-Ypbh9_WEg?si=928B2VQSDwRcMoXM" target="_blank"
+      rel="noopener noreferrer">It is a merely normal.</a>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/vbyy21ynic2rglzq041h4/CAV.gif?rlkey=7tpi6qcofr751386vr1goc5sz&st=gxocl22v"
+      vspace="5px" title="冒険の仲間たち。">
+
+    <br>
+
+    <!--note-->
+    <p class="size13 noto-sans-jp300">
+
+      ＊作品の公開時には仕様・設定が異なる場合がございます。
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+    </p>
+
+    <!--rink to gallary-->
+    <p>
+      <a href="https://gene-lumiera.tumblr.com/Idea">　　follow the route　▶</a>
+
+    </p>
+
+    <!--rink to thater-->
+    <p>
+      <a href="https://gene-lumiera.tumblr.com/NuitEnneigee">◀　go in the opposite direction　　</a>
+      <br>
+      <br>
+      <br>
+      <br>
+    </p>
+
+  </div>
+
+
+
+  <!--copyright-->
+  <p class="size15 poppins-light">
+    © 2024 peri <a class="Anth" href="https://x.com/D_Kohoutek">@D_Kohoutek</a>
+    <br>
+    <br>
+
+  </p>
+</BODY>
+
+</HTML>
