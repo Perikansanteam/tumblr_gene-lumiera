@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+    <Title>In a dream, another self.</Title>
+    <!-- tumblr01 -->
+
+    <meta charset="utf-8" />
+
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+    <style>
+        /* P */
+        p {
+            font-size: 55px;
+            text-align: center;
+            margin: 0 auto;
+            letter-spacing: 0.045em;
+            font-feature-settings: "palt";
+        }
+
+        /* A */
+        a {
+            transition: color 0.3s;
+            text-decoration: none;
+            color: #AAAAAA;
+        }
+
+        a:hover {
+            color: #5A5A5A;
+        }
+
+        a:active {
+            color: #79b1ab;
+            text-decoration: line-through 3px;
+        }
+
+        /* BODY */
+        body {
+            background-color: #F2F2F2;
+            color: #5A5A5A;
+        }
+
+        .absolute_transform {
+            position: absolute;
+            top: 50%;
+            /*親要素を起点に上から50%*/
+            left: 50%;
+            /*親要素を起点に左から50%*/
+            transform: translateY(-50%) translateX(-50%);
+            /*要素の大きさの半分ずつを戻す*/
+            -webkit-transform: translateY(-50%) translateX(-50%);
+        }
+
+        /* Google Font */
+        .poppins-light {
+            font-family: "Poppins", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+        }
+
+        .poppins-regular {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .poppins-medium {
+            font-family: "Poppins", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+        }
+
+        .poppins-semibold {
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-style: normal;
+        }
+
+        /* tumblr */
+        iframe#tumblr_controls {
+            display: none;
+        }
+    </style>
+
+</HEAD>
+
+<BODY>
+    <div class="poppins-medium absolute_transform">
+        <p>
+            <a href="https://gene-lumiera.tumblr.com/Idea">KINETO</a>
+        </p>
+    </div>
+</BODY>
+
+</HTML>
