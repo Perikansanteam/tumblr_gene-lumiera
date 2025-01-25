@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+  <Title>In a dream, another self.</Title>
+  <!-- tumblr02 -->
+
+  <meta charset="utf-8" />
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+
+  <style>
+    /* P */
+    p {
+      font-size: 20px;
+      text-align: center;
+      margin: 0 auto;
+      letter-spacing: 0.045em;
+      font-feature-settings: "palt";
+    }
+
+    /* A */
+    a {
+      transition: color 0.3s;
+      text-decoration: none;
+      color: #AAAAAA;
+    }
+
+
+    a.Blue {
+      color: #EDEDED;
+    }
+
+    /* A hover */
+    a:hover {
+      color: #5A5A5A;
+    }
+
+    a.Blue:hover {
+      color: #0000FF;
+    }
+
+    /* A active */
+    a:active {
+      color: #79b1ab;
+      text-decoration: none;
+    }
+
+    a.Blue:active {
+      color: #FF0000;
+      text-decoration: none;
+    }
+
+    a.Anth:active {
+      color: #0000FF;
+      text-decoration: none;
+    }
+
+    /* BODY */
+    body {
+      background-color: #F2F2F2;
+      color: #5A5A5A;
+    }
+
+    .size13 {
+      font-size: 13.5px;
+      color: #AAAAAA;
+    }
+
+    .size15 {
+      font-size: 15px;
+      color: #AAAAAA;
+    }
+
+    .size18 {
+      font-size: 18.5px;
+    }
+
+    .size20 {
+      font-size: 20px;
+    }
+
+    .size40 {
+      font-size: 40px;
+    }
+
+    .CENTER {
+      text-align: center;
+    }
+
+    .absolute_transform {
+      position: absolute;
+      top: 50%;
+      /*親要素を起点に上から50%*/
+      left: 50%;
+      /*親要素を起点に左から50%*/
+      transform: translateY(-50%) translateX(-50%);
+      /*要素の大きさの半分ずつを戻す*/
+      -webkit-transform: translateY(-50%) translateX(-50%);
+    }
+
+    /* Google Font */
+    .poppins-light {
+      font-family: "Poppins", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+    }
+
+    .poppins-regular {
+      font-family: "Poppins", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    .poppins-medium {
+      font-family: "Poppins", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+
+    .poppins-semibold {
+      font-family: "Poppins", sans-serif;
+      font-weight: 600;
+      font-style: normal;
+    }
+
+    .noto-sans-jp500 {
+      font-family: "Noto Sans JP", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+
+    .noto-sans-jp300 {
+      font-family: "Noto Sans JP", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+    }
+
+    /* tumblr */
+    iframe#tumblr_controls {
+      display: none;
+    }
+
+    /* TEST */
+    .rectangle {
+      width: 300px;
+      height: 200px;
+      border: 2px solid black;
+      margin: 0 auto;
+    }
+  </style>
+
+</HEAD>
+
+<BODY>
+  <div class="poppins-medium CENTER">
+    <p class="size40">
+      <a href="https://gene-lumiera.tumblr.com/Idea">KINETO</a>
+    </p>
+    <br>
+    <br>
+
+    <!-- KINETO I-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/kc66gvp826p81gmlyc5x0/KINETOI.GIF?rlkey=kfe044ukdwvvshi9euws7l4rz&st=g6cg4j98"
+      vspace="5px">
+    <p class="size20">
+      KINETO I
+    </p>
+    <P class="size15 poppins-light">
+      In a dream, another self.
+    </P>
+    <audio
+      src="https://dl.dropboxusercontent.com/scl/fi/wycvs5ulnled6unvt63in/01_KINETO_I.wav?rlkey=mi1y3dieoaz0olrrrbjk8m5lv&st=febwlni7"
+      preload="auto" controls controlslist="nodownload"></audio>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- KINETO II-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/0kybo9bxs6ijxpsbt9v28/KINETOII.gif?rlkey=96sfztslpgw8uvsyn42k85oau&st=vamx60oi"
+      vspace="5px">
+    <p class="size20">
+      KINETO II
+    </p>
+    <P class="size15 poppins-light">
+      Fear in freedom.
+    </P>
+    <audio
+      src="https://dl.dropboxusercontent.com/scl/fi/l8kbu40h4t06t70052edr/02_KINETO_II.wav?rlkey=23la52qf62s16dfdasckky5j2&st=pjg76jjt"
+      preload="auto" controls controlslist="nodownload"> </audio>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- the Great Gears-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/ch8qbo8dwih69giko22rz/theGreatGears.gif?rlkey=os9nk7tt9h7ospxrgcbi791pn&st=pz078zjz"
+      vspace="5px">
+    <p class="size20">
+      the Great Gears
+    </p>
+    <P class="size15 poppins-light">
+      There is the place that time flows from.
+    </P>
+    <audio
+      src="https://dl.dropboxusercontent.com/scl/fi/6y7kn9n770cmqjnllkryj/03_theGreatGears.wav?rlkey=4vxbrlbkefkyiwdfcvmn77qx3&st=cadr17y5"
+      preload="auto" controls controlslist="nodownload"> </audio>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- KINETO IV-->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/j5euitinuge3kq8o6tdxy/KINETOIV.gif?rlkey=umk0pwpwswnru9m0tmiaeqx6t&st=kqtnrjdm"
+      vspace="5px">
+    <p class="size20">
+      KINETO IV
+    </p>
+    <P class="size15 poppins-light">
+      Movement in the Ventral.
+    </P>
+    <audio
+      src="https://dl.dropboxusercontent.com/scl/fi/4pe07umkjupi3ehhb3551/04_KINETO_IV.wav?rlkey=h013shaxac64b2pgqrf1zkzf8&st=4mstgvzi"
+      preload="auto" controls controlslist="nodownload"> </audio>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- Time Helix -Descent and Descent -->
+    <img
+      src="https://dl.dropboxusercontent.com/scl/fi/ruj5q7zh0dcu9pon33cd9/TimeHelixDescentAndDescent.gif?rlkey=oat8sqvdpohyn53jec4nbkgf0&st=md4brbc1"
+      vspace="5px">
+    <p class="size18 noto-sans-jp500">
+      時螺旋 -下々降
+    </p>
+    <P class="size13 noto-sans-jp300">
+      天を地に、時の螺旋を、より深くへ。
+    </P>
+    <audio
+      src="https://dl.dropboxusercontent.com/scl/fi/60qjdkdruluu4k770brfw/05_TimeHelix_Descent_AndDescent.wav?rlkey=wxbgxch66lzqhg78mrnw76ipq&st=ouutmd7z"
+      preload="auto" controls controlslist="nodownload"> </audio>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <!-- Teaser -->
+    <P class="size15 poppins-light">
+      <a class="Blue" href="https://gene-lumiera.tumblr.com/IsWasted">It Hasn't Awakened Yet.</a>
+    </P>
+
+    <br>
+    <br>
+
+    <!--rink to theater-->
+    <p>
+      <a href="https://gene-lumiera.tumblr.com/NuitEnneigee">　　follow the route　▶</a>
+
+    </p>
+
+    <!--rink to gallary-->
+    <p>
+      <a href="https://gene-lumiera.tumblr.com/FlagUW">◀　go in the opposite direction　　</a>
+      <br>
+      <br>
+      <br>
+      <br>
+    </p>
+
+  </div>
+
+  <!--copyright-->
+  <p class="size15 poppins-light">
+    © 2024 peri <a class="Anth" href="https://x.com/D_Kohoutek">@D_Kohoutek</a>
+    <br>
+    <br>
+
+  </p>
+</BODY>
+
+</HTML>
