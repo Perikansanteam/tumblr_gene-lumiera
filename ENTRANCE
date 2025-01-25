@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<HTML>
+
+<HEAD>
+  <Title>now tripping...</Title>
+  <!-- Tumblr06 -->
+
+  <meta charset="utf-8" />
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+Antique:wght@400;500&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /*P*/
+    p {
+      font-size: 15px;
+      margin: 0 auto;
+      letter-spacing: 0.045em;
+      font-feature-settings: "palt";
+    }
+
+    /*A*/
+    a {
+      transition: color 0.3s;
+      text-decoration: underline 1px;
+      color: #AAAAAA;
+    }
+
+    a.Anth:active {
+      color: #0000FF;
+      text-decoration: none;
+    }
+
+
+    /*A hover*/
+    a:hover {
+      color: #79b1ab;
+    }
+
+    a.Blue:hover {
+      color: #0000FF;
+    }
+
+    /*A active*/
+    a:active {
+      color: #79b1ab;
+    }
+
+    a.Blue:active {
+      color: #FF0000;
+      text-decoration: none;
+    }
+
+    /*BODY*/
+    body {
+      background-color: #000000;
+      color: #CCCCCC;
+    }
+
+    .size13 {
+      font-size: 13.5px;
+      color: #AAAAAA;
+    }
+
+    .size15 {
+      font-size: 15px;
+      color: #888888;
+    }
+
+    .size18 {
+      font-size: 18.5px;
+      font-weight: 400;
+    }
+
+    .size20 {
+      font-size: 20px;
+    }
+
+    .size40 {
+      font-size: 40px;
+    }
+
+    /* Google Font */
+    .zen-kaku-gothic-antique-regular {
+      font-family: "Zen Kaku Gothic Antique", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    .zen-kaku-gothic-antique-medium {
+      font-family: "Zen Kaku Gothic Antique", sans-serif;
+      font-weight: 500;
+      font-style: normal;
+    }
+  </style>
+
+</HEAD>
+
+<BODY>
+  <div class="zen-kaku-gothic-antique-regular">
+    <p class="size40 zen-kaku-gothic-antique-medium" style="text-decoration: underline 2px;">
+      ご入場前にお読みください……<br>
+    </p>
+
+    <p class="size20 zen-kaku-gothic-antique-medium">
+      <br>
+      ・当サイトの音楽作品・小説作品・画像作品等は、制作者の著作物になります。<br>
+    </p>
+
+    <p class="size15">
+      <!--　　当サイトの音楽作品・小説作品・画像作品等について、無断利用を禁止致します。<br> -->
+      　　著作物につきましては、以下に当てはまる利用を許可いたします。<br>
+      <br>
+    </p>
+
+    <p class="size15 zen-kaku-gothic-antique-medium" style="color: #F2F2F2;">
+      　　　　【許可事項】<br>
+      　　　　・鑑賞動画の作成、配信<br>
+      　　　　・スクリーンショットの公開<br>
+      　　　　・作品を元にした二次創作作品の作成、配信<br>
+      <br>
+    </p>
+
+    <p class="size15">
+      　　この場合、当サイトの内容を元に作成なされました動画・画像・その他メディアにつきましては<br>
+      　　制作者・減゜寒の著作物である旨が伝わるようにしていただきますよう、よろしくお願い申し上げます。<br>
+      <br>
+    </p>
+
+    <p class="size15">
+      　　ただし、以上の場合につきましても、以下の事項に当てはまる利用は禁止させて頂きます。<br>
+    </p>
+    <p class="size15 zen-kaku-gothic-antique-medium" style="color: #CCCCCC;">
+      <br>
+      　　　　・作品のイメージを損なうようなご利用<br>
+      　　　　・個人の思想を発信するためのご利用<br>
+      　　　　・権利の侵害、中傷、犯罪等、公序良俗に反する目的でのご利用<br>
+      <br>
+    </p>
+
+    <p class="size15">
+      　　以上の要綱に当てはまらない場合でございましても、<br>
+      　　制作者が好ましくないと判断した場合、作品の削除等をお願いする場合がございます。<br>
+      <br>
+      　　当サイトの内容を元に作成された著作物が原因で発生いたしましたトラブルにつきまして、<br>
+      　　制作者（減゜寒）は一切の責任を負わないものといたします。<br>
+      <br>
+      　　この他、ご不明点等ございましたら、以下よりご連絡をよろしくお願いいたします。<br>
+      　　<a class="Anth" href="https://x.com/D_Kohoutek">@D_Kohoutek</a><br>
+      <br>
+      　　また制作にて使用させて頂いた素材、アドオン等につきまして、著作権はそれぞれの制作者様にございます。<br>
+      <br>
+    </p>
+
+    <p class="size20 zen-kaku-gothic-antique-medium">
+      ・当サイトの鑑賞は自己責任において行ってくださいませ。<br>
+    </p>
+
+    <p class="size15">
+      　　当サイトが原因で発生いたしました損害・障害・トラブル等につきまして、<br>
+      　　制作者（減゜寒　<a class="Anth" href="https://x.com/D_Kohoutek">@D_Kohoutek</a>）は一切の責任を負わないものと致します。<br>
+      　　以下の表現にご注意くださいませ。<br>
+    </p>
+
+    <p class="size15 zen-kaku-gothic-antique-medium" style="color: #CCCCCC;">
+      <br>
+      　　　　・光の点滅<br>
+      <br>
+    </p>
+
+    <p class="size20 zen-kaku-gothic-antique-medium">
+      ・以上の内容につきまして、制作者は必要と判断した際に鑑賞者の承諾なしに本注意書きの変更ができるものと致します。<br>
+    </p>
+
+    <p class="size15">
+      　　なおこの場合、当サイトの注意内容は変更後の内容に依拠致します。<br>
+    </p>
+
+    <p class="size20 zen-kaku-gothic-antique-medium">
+      <br>
+      ・当サイトの内容はフィクションになります。<br>
+    </p>
+
+    <p class="size15">
+      　　実在の人物、団体、事件等とは一切関係ございません。<br>
+      　　また、犯罪や差別等を助長する意図はございません。<br>
+      <br>
+    </p>
+    <br>
+    　＊＊＊<br>
+    <br>
+
+    <p class="size20 zen-kaku-gothic-antique-medium">
+      ・当ギャラリーにつきまして
+    </p>
+
+    <p class="size15">
+      　　ギャラリー「KINETO」<br>
+      <br>
+      　　制作者　減゜寒<br>
+      <br>
+      　　使用素材等<br>
+      　　　Blenderアドオン<br>
+      　　　・Pixel Art Rendering<br>
+      　　　
+      <br>
+      　　　フォント<br>
+      　　　・Poppins<br>
+      　　　・しっぽり明朝B1<br>
+      　　　・noto-sans<br>
+      　　　・Zen Kaku Gothic Antique<br>
+      <br>　
+      　　音声素材のクレジット<br>
+      　　　・VSQ plus+様<br>
+    </p>
+
+    <br>
+    　＊＊＊<br>
+    <br>
+
+    <p class="size18 zen-kaku-gothic-antique-medium">
+      　以上の内容にご同意いただけます場合は、以下よりお入りくださいませ。
+    </p>
+
+    <p>
+      　　　<a class="size40 zen-kaku-gothic-antique-medium" href="https://gene-lumiera.tumblr.com/KINETO" style="text-decoration: underline 2px;">>ENTER</a>
+      <br>
+      <br>
+      <br>
+    </p>
+
+    <p class="size18 zen-kaku-gothic-antique-medium">
+      　ご同意いただけません場合は大変恐れ入りますが、解毒薬をお召し上がりになって、<br>
+      　現実世界へご退出いただきますよう、よろしくお願いいたします。<br>
+
+    </p>
+
+    <p>
+      <br>
+      <br>
+      <br>
+      <br>
+    </p>
+
+  </div>
+
+  <!--copyright-->
+  <p class="size15 zen-kaku-gothic-antique-medium">
+    　 © 2024 peri <a class="Anth" href="https://x.com/D_Kohoutek">@D_Kohoutek</a>
+    <br>
+    <br>
+  </p>
+
+</BODY>
+
+</HTML>
